@@ -27,7 +27,7 @@ Managing waste effectively is crucial for the well-being of our environment and 
 | **Frontend**      | React, JavaScript, CSS                     |
 | **Backend**       | Python, Django, PyTorch, Transformers      |
 | **Image Recognition** | CNN (Convolutional Neural Network)      |
-| **Chatbot**       | Natural Language Processing (NLP)          |
+| **Chatbot**       | Natural Language Processing (NLP), Embedchain RAG Framework, MistralAI, Transformers          |
 | **Mini-Game**     | Unity                                       |
 ## Getting Started
 1. **Frontend Setup**: 
