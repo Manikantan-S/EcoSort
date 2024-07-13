@@ -1,6 +1,11 @@
 # EcoSort: Your Waste Sorting Companion 🌱♻️
 
 Managing waste effectively is crucial for the well-being of our environment and communities. EcoSort offers an innovative solution to tackle waste management challenges and promote sustainable practices.
+# Video demo
+
+
+https://github.com/user-attachments/assets/67418e1f-2144-4bbd-b128-5e61dca9fcae
+
 
 ## What EcoSort Does
 
