@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/67418e1f-2144-4bbd-b128-5e61dca9fcae
 | **Backend**       | Python, Django, PyTorch, Transformers      |
 | **Image Recognition** | CNN (Convolutional Neural Network)      |
 | **Chatbot**       | Natural Language Processing (NLP), Embedchain RAG Framework, MistralAI, Transformers          |
-| **Mini-Game**     | Unity                                       |
+| **Mini-Game**     | Unity,C\#                                       |
 ## Getting Started
 1. **Frontend Setup**: 
    - Navigate to the frontend directory and run it on live server to start the frontend server.
